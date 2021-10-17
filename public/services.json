@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/7brvqL1/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "WHEEL ALIGNMENT",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/b7HX0cC/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "OIL CHANGING",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/KWVTYyV/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BRAKE REPARING",
+        "price": "180",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/Q8vXwGc/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "WASH AND GLASSING",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/2sGPpb8/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "COMPLETE ANALYSIS",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/XCC1tJ7/6.jpg"
+    }
+]
